@@ -1,0 +1,1 @@
+e:\ZXSpectrum\asm\zmakebas.exe -a 5 -o machineCodeMonitor.tap machineCodeMonitor.bas
