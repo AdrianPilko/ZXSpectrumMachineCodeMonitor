@@ -9,3 +9,7 @@ This allows you to:
 3) insert code
 4) copy code
 and a few otgher, check book for details (its available at archive.org)
+
+HEXLD3_V3 is the latest and has a better list (run 10); however, this has broken breakpoint as
+the addition to list overwrote the first two bytes of BREAKPT 0xff2a. This should be fixable.
+The improvement to list is to list 8 bytes per line.
